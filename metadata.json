@@ -1,0 +1,6 @@
+{
+  "name": "Sweetfrys Shawarma Spot",
+  "description": "Online food ordering & real-time delivery tracking for Sweetfrys Shawarma Spot",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
